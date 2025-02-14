@@ -9,7 +9,7 @@ export const Bio = {
   description:
     "A determined, self-motivated, and curious graduate student of Bowling Green State University who’s willing to work as a fresher and enhance his interpersonal skills during the period while focusing on the betterment of the role. ",
   resume:
-    "https://drive.google.com/file/d/1txFKZD3LNIXMc329jD9c995AU8LItOXK/view?usp=drive_link",
+    "https://drive.google.com/file/d/1tNkpGya9H_c_b2a00I3_qMIboTAcmx6a/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/vanamali-sasaunk/",
   insta: "",
 };
