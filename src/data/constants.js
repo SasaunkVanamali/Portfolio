@@ -4,6 +4,7 @@ export const Bio = {
     "ML Enthusiast",
     "Python Developer",
     "Data Analyst",
+    "Full Stack Developer",
   ],
   description:
     "A determined, self-motivated, and curious graduate student of Bowling Green State University who’s willing to work as a fresher and enhance his interpersonal skills during the period while focusing on the betterment of the role. ",
