@@ -9,7 +9,7 @@ export const Bio = {
   description:
     "A determined, self-motivated, and curious graduate student of Bowling Green State University who’s willing to work as a fresher and enhance his interpersonal skills during the period while focusing on the betterment of the role. ",
   resume:
-    "https://drive.google.com/file/d/1tNkpGya9H_c_b2a00I3_qMIboTAcmx6a/view?usp=drive_link",
+    "https://drive.google.com/file/d/1JLi2qkU31DSJQM293c998X8LfJZjpqBf/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/vanamali-sasaunk/",
   insta: "",
 };
@@ -170,45 +170,46 @@ export const experiences = [
   {
     id: 1,
     img: "",
-    role: "Data Analyst",
-    company: " Power Ads",
-    date: "Jan 2023 – July 2023",
-    desc: "Gathering data from a variety of sources, such as internal databases, external APIs, and third-party sources.I worked closely with cross-functional teams to collect and analyze large datasets from various sources, such as online ad platforms and customer interactions. ",
+    role: "Data Science & ML Engineer ",
+    company: " Hexaware Technologies, Hyderabad, India",
+    date: "Jun 2021 – July 2023",
+    desc: "Extracted and transformed over 50,000 raw data records from HDFS using Python-based data wrangling and preprocessing techniques, which improved downstream model readiness by 30% and accelerated analysis pipelines. Built and evaluated supervised learning models—including XGBoost, SVM, Random Forest, and Logistic Regression—using Scikit-learn, achieving over 93% classification accuracy on real-world datasets. Applied Bayesian Hidden Markov Models (HMM) for pattern recognition and temporal sequence modeling, enhancing anomaly detection in time-series data by 20%. Leveraged Azure Databricks for scalable data preprocessing and model training, integrating with Azure Blob Storage to efficiently process 2TB of unstructured data and improving pipeline performance by 20% through distributed computing. ",
     skills: [
-      "MySQL",
-      "Power BI",
+      "Scipy",
+      "NumPy",
       "Python",
-      "Django",
+      "HDFS",
+      "Hbase",
     ],
     doc: "",
   },
-  {
-    id: 2,
-    img: "",
-    role: "Web Development and Designing Intern",
-    company: "OASIS INFOBYTE",
-    date: "July 2022 – August 2022 ",
-    desc: "Collaborated with a team of designers and developers to implement user interface designs using HTML, CSS, and JavaScript.Implemented interactive features and animations using JavaScript to enhance the user experience.",
-    skills: [
-      "HTML",
-      "CSS",
-      "JavaScript",
-    ],
-    doc: "",
-  },
-  {
-    id: 3,
-    img: "",
-    role: "Machine Learning Intern",
-    company: " ZEBO.AI ",
-    date: "March 2022- April 2022 ",
-    desc: "Created a Classification model to detect the Mobile Price Range based on its features. Created a Classification model to detect whether a person is COVID positive or not based on the previous data. ",
-    skills: [
-      "Python",
-      "Machine Learning",
-    ],
-    doc: "",
-  },
+  // {
+  //   id: 2,
+  //   img: "",
+  //   role: "Web Development and Designing Intern",
+  //   company: "OASIS INFOBYTE",
+  //   date: "July 2022 – August 2022 ",
+  //   desc: "Collaborated with a team of designers and developers to implement user interface designs using HTML, CSS, and JavaScript.Implemented interactive features and animations using JavaScript to enhance the user experience.",
+  //   skills: [
+  //     "HTML",
+  //     "CSS",
+  //     "JavaScript",
+  //   ],
+  //   doc: "",
+  // },
+  // {
+  //   id: 3,
+  //   img: "",
+  //   role: "Machine Learning Intern",
+  //   company: " ZEBO.AI ",
+  //   date: "March 2022- April 2022 ",
+  //   desc: "Created a Classification model to detect the Mobile Price Range based on its features. Created a Classification model to detect whether a person is COVID positive or not based on the previous data. ",
+  //   skills: [
+  //     "Python",
+  //     "Machine Learning",
+  //   ],
+  //   doc: "",
+  // },
 ];
 
 export const education = [
