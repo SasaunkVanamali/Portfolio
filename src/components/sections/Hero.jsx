@@ -251,7 +251,7 @@ const Hero = () => {
 
               {/* Resume Button */}
               <motion.div {...headContentAnimation}>
-              <ResumeButton href="https://drive.google.com/file/d/1JLi2qkU31DSJQM293c998X8LfJZjpqBf/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+              <ResumeButton href="https://drive.google.com/file/d/18UiLdzZoLG1NW5HOjrgtDAGBOKDrEuBl/view?usp=sharing" target="_blank" rel="noopener noreferrer">
                 Resume
               </ResumeButton>
           </motion.div>
